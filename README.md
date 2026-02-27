@@ -48,7 +48,7 @@ GET = TMB × Fator de Atividade
 
 ## 🎯 Objetivo do Projeto
 
-Projeto desenvolvido como parte dos estudos em Análise e Desenvolvimento de Sistemas, com foco em modularização de código, validação de dados do usuário e aplicação prática de cálculos matemáticos em Python.
+Projeto desenvolvido como parte dos meus estudos sobre python, com foco em modularização de código, validação de dados do usuário e aplicação prática de cálculos matemáticos.
 
 ---
 
